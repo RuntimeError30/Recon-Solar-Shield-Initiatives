@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "postinstall": "chmod +x node_modules/.bin/rollup",
     "build": "rollup -c --environment NODE_ENV:production",
     "dev": "rollup -c -w",
     "start": "sirv public --no-clear"
