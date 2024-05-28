@@ -1,0 +1,234 @@
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/appsettings.Development.json
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/appsettings.json
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/RssiRegressionEngine.mlnet
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.deps.json
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.runtimeconfig.json
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.pdb
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Autofac.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/AutoMapper.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Azure.Core.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Azure.Identity.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Humanizer.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.Core.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.Data.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.KMeansClustering.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.PCA.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.StandardTrainers.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.Transforms.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.CpuMath.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.DataView.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.FastTree.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.LightGbm.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.CodeDom.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.Memory.Data.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Controllers.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Core.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Credentials.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Logic.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Security.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Streams.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.WebLogic.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/lib_lightgbm.so
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/lib_lightgbm.dylib
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/lib_lightgbm.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/lightgbm.exe
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-arm/native/libLdaNative.so
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libLdaNative.so
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/LdaNative.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x86/native/LdaNative.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libFastTreeNative.so
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libFastTreeNative.dylib
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/FastTreeNative.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x86/native/FastTreeNative.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.csproj.AssemblyReference.cache
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.AssemblyInfoInputs.cache
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.AssemblyInfo.cs
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.csproj.CoreCompileInputs.cache
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.RazorAssemblyInfo.cache
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.RazorAssemblyInfo.cs
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.RSSI webAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.RSSI webAPI.props
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.RSSI webAPI.props
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.RSSI webAPI.props
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets.build.json
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets.development.json
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/scopedcss/bundle/RSSI webAPI.styles.css
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.csproj.CopyComplete
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/refint/RSSI webAPI.dll
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.pdb
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.genruntimeconfig.cache
+/home/orchi/Documents/RSSI/RSSIwebAPI/RSSIwebAPI/obj/Debug/net7.0/ref/RSSI webAPI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/appsettings.Development.json
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/appsettings.json
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/RssiRegressionEngine.mlnet
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.deps.json
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.runtimeconfig.json
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/RSSI webAPI.pdb
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Autofac.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/AutoMapper.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Azure.Core.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Azure.Identity.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Humanizer.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.Core.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.Data.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.KMeansClustering.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.PCA.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.StandardTrainers.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.Transforms.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.CpuMath.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.DataView.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.FastTree.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.ML.LightGbm.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.CodeDom.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.Memory.Data.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Controllers.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Core.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Credentials.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Logic.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Security.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.Streams.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.WebLogic.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/Tweetinvi.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/lib_lightgbm.so
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/lib_lightgbm.dylib
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/lib_lightgbm.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/lightgbm.exe
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-arm/native/libLdaNative.so
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libLdaNative.so
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/LdaNative.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x86/native/LdaNative.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libFastTreeNative.so
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libFastTreeNative.dylib
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x64/native/FastTreeNative.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win-x86/native/FastTreeNative.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.csproj.AssemblyReference.cache
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.AssemblyInfoInputs.cache
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.AssemblyInfo.cs
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.csproj.CoreCompileInputs.cache
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.RazorAssemblyInfo.cache
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.RazorAssemblyInfo.cs
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.RSSI webAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.RSSI webAPI.props
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.RSSI webAPI.props
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.RSSI webAPI.props
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets.build.json
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/staticwebassets.development.json
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/scopedcss/bundle/RSSI webAPI.styles.css
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.csproj.CopyComplete
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/refint/RSSI webAPI.dll
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.pdb
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/RSSI webAPI.genruntimeconfig.cache
+/home/orchi/Documents/RSSI/RSSI_webAPI/RSSIwebAPI/obj/Debug/net7.0/ref/RSSI webAPI.dll

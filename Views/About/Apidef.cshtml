@@ -1,0 +1,44 @@
+﻿<style>
+    * {
+        font-family: 'JetBrains Mono'
+    }
+    footer{
+        margin-top : 2em;
+    }
+</style>
+
+<title>API Definitions - RSSI</title>
+
+<h1>API Endpoints</h1>
+
+<p style="font-weight: bold;">*Endpoints are protected using api key</p>
+
+<h2>BtRegression</h2>
+<p><strong>Endpoint:</strong> POST /api/BtRegression/Predict</p>
+<p><strong>Description:</strong> Predicts using the provided input data</p>
+
+<p><strong>Endpoint:</strong> POST /api/BtRegression/Feedback</p>
+<p><strong>Description:</strong> Accepts feedback on the prediction</p>
+
+<h2>EarthData</h2>
+<p><strong>Endpoint:</strong> GET /api/EarthData/ncei</p>
+<p><strong>Description:</strong> Gets GeoMagnetic data from NCEI</p>
+
+<p><strong>Endpoint:</strong> GET /api/EarthData/bgs</p>
+<p><strong>Description:</strong> Gets GeoMagnetic data from BGS</p>
+
+<h2>SatelliteData</h2>
+<p><strong>Endpoint:</strong> GET /api/SatelliteData/dscovr</p>
+<p><strong>Description:</strong> Gets data from DSCOVR satellite</p>
+
+<p><strong>Endpoint:</strong> GET /api/SatelliteData/ace</p>
+<p><strong>Description:</strong> Gets data from ACE satellite</p>
+
+<h2>Tweets</h2>
+<p><strong>Endpoint:</strong> POST /api/Tweets</p>
+<p><strong>Description:</strong> Posts a new tweet</p>
+
+<footer>
+    <p>Copyright © 2023 - <a href=" @ViewBag.Baseurl/home">Team SolarSentinel</a></p>
+</footer>
+
